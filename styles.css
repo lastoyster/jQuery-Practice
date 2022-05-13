@@ -1,0 +1,19 @@
+.container {
+  width: 1000px;
+  margin: 2em auto;
+}
+
+.cloth {
+  font-family: sans-serif;
+  font-size: 0.75em;
+  color: rgb(255, 0, 0);
+}
+
+p {
+  width: 10px;
+  height: 10px;
+  float: left;
+  border: 1px solid antiquewhite;
+  line-height: 1;
+  padding: 1px;
+}
